@@ -6,4 +6,4 @@ Each CASH Music summit will be a two-day event with an invite-only discussion da
 We'll film talks from the discussion days, write deeper analysis, and use the events to learn and grow. Part hack day and part industry education, the workshop days will give musicians and technologists a place to learn, build new things, and test new ideas.
 
 
-## [https://github.com/cashmusic/summits/wiki](Check the wiki for more)
+## [Check the wiki for more](https://github.com/cashmusic/summits/wiki)
